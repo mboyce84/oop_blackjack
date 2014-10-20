@@ -1,0 +1,1 @@
+Command-line based Blackjack game built using Ruby. The code has been re-factored from procedural to object-oriented.
